@@ -1,16 +1,19 @@
 # readme-generator
 
+Generate a professional READme from user input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
 
-## Screenshots of the Deployed Website
+## Screenshots of the READme
 
 
 ## Review
 
 The following is submitted for review:
 
-* The URL of the deployed application.
+* A walkthrough video demonstrating the functionality of the application. 
 
-https://xelinx.github.io/readme-generator/
+
+* A sample README.md file for a project repository generated using your application.
+
 
 * The URL of the GitHub repository which includes a README describing the project.
 
