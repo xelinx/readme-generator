@@ -1,10 +1,8 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `
+
   
-  # ${data.title}
+  # Testing
   
-  ## ${data.description}
+  ## Test Test
   ---
   ## Table of Contents
   - [Installation](#installation)
@@ -18,26 +16,23 @@ function generateMarkdown(data) {
   ---
   ## Installation
   ​
-  ${data.installation}
+  npm install
 
   ## Usage
-  ${data.usage}
+  none
 
   ## License
-  This project is licensed under the ${data.license} license.
+  This project is licensed under the MIT license.
 
   ## Contributing
-  ${data.contributing}
+  none
 
   ## Tests
-  ${data.tests}
+  none
 
   ## Questions
-  If you have any questions, contact ${data.username} on GitHub
+  If you have any questions, contact testing on GitHub
 
-  ## Badges
+  ##Badges
   ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)
-  `;
-}
-
-module.exports = generateMarkdown;
+  
