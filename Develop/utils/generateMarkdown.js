@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have any questions, contact ${data.username} on GitHub
+  If you have any questions, contact ${data.username} on GitHub or email ${data.email}.
 
   ## Badges
   ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)
