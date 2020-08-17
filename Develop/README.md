@@ -2,7 +2,9 @@
   
   # README Generator
   
-  ## Generate a professional README through user input.
+  ## Description
+  Generate a professional README from user input
+
   ---
   ## Table of Contents
   - [Installation](#installation)
@@ -11,7 +13,6 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Badges] (#badges)
 
   ---
   ## Installation
@@ -31,8 +32,7 @@
   none
 
   ## Questions
-  If you have any questions, contact xelinx on GitHub or email lin.emay@gmail.com.
+  If you have any questions, contact xelinx on GitHub or email test@gmail.com.
 
-  ## Badges
   ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)
   
