@@ -4,6 +4,8 @@ Generate a professional READme from user input using the [Inquirer package](http
 
 The generated READme must include the Title, Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions sections.
 
+Generating a README from user input was not too difficult. I'm satisfied with what I was able to do here.
+
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/66236313/90385755-6675ad80-e038-11ea-8da3-92b79b32d216.png)
@@ -14,8 +16,8 @@ The generated READme must include the Title, Description, Table of Contents, Ins
 The following is submitted for review:
 
 * A walkthrough video/gif demonstrating the functionality of the application. 
-![README Generator](https://user-images.githubusercontent.com/66236313/90385469-0da61500-e038-11ea-8c03-231754d5f69f.gif)
 
+![README Generator](https://user-images.githubusercontent.com/66236313/90385469-0da61500-e038-11ea-8c03-231754d5f69f.gif)
 
 * A sample README.md file for a project repository generated using your application.
 
