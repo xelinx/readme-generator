@@ -36,7 +36,8 @@ function generateMarkdown(data) {
   If you have any questions, contact ${data.username} on GitHub
 
   ##Badges
-  ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)`;
+  ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)
+  `;
 }
 
 module.exports = generateMarkdown;
