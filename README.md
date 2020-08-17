@@ -7,7 +7,7 @@ The generated READme must include the Title, Description, Table of Contents, Ins
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/66236313/90385755-6675ad80-e038-11ea-8da3-92b79b32d216.png)
-![Screenshot 2](https://user-images.githubusercontent.com/66236313/90385762-683f7100-e038-11ea-8236-c508b3cd620d.png)
+![Screenshot 2](https://user-images.githubusercontent.com/66236313/90386358-4b576d80-e039-11ea-891a-3e0ef07bb7b5.png)
 
 ## Review
 
