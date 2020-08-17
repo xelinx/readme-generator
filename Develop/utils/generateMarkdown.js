@@ -4,7 +4,9 @@ function generateMarkdown(data) {
   
   # ${data.title}
   
-  ## ${data.description}
+  ## Description
+  ${data.description}
+
   ---
   ## Table of Contents
   - [Installation](#installation)
@@ -13,7 +15,6 @@ function generateMarkdown(data) {
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Badges] (#badges)
 
   ---
   ## Installation
@@ -35,7 +36,6 @@ function generateMarkdown(data) {
   ## Questions
   If you have any questions, contact ${data.username} on GitHub or email ${data.email}.
 
-  ## Badges
   ![GitHub top language](https://img.shields.io/github/languages/top/xelinx/readme-generator)
   `;
 }
